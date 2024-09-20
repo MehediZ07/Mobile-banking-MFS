@@ -8,7 +8,7 @@ if( inputNumber === "01816312962" && pinNumber ==="1234"){
     
     // window.location.href='../home-page.html';
     // window.location.assign('../Sub-pages/home-page.html');
-    window.location.assign('/Mobile-banking-MFS/Sub-pages/home-page.html');
+    window.location.assign('../Sub-page/home-page.html');
 
 
 
